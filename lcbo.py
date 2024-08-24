@@ -1,3 +1,5 @@
+# August 2024
+
 import os
 import time
 from selenium.webdriver.common.by import By
